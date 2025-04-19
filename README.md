@@ -13,13 +13,25 @@ Métodologia:
 - Graficos;
 - formulas ;
 
+:
+
 Conclusão:
-Analisei conforme os dados acima e em cima do faturamento indico a venda da loja 04;
-motivo:
-Levei como base exclusiva wm cima dos dados que constam em minhas mãos e claro faltando ter mairoes informações para poder tonar a minha opinião mais robusta e talvez até mudando de indicação de venda da loja 4 mase m uma analise bem fria
-e com pouco dados conssistentes permaneço com a indicação da loja 4.
-Grafico de faturamento:
-segue acima todos os graficos gerados e usados na analise.
-Considerei o frete  também, onde teve um peso importante, e tambem a avaliação por loja(média):
-Essa analise tem como objetivo a venda de uma loja mas poderia ter varias abordagens e que poderia ser levado outras informações e estratégia da empresa.
+
+Com base nos dados apresentados e priorizando o faturamento, minha indicação é a venda da Loja 04.
+
+Justificativa:
+
+Esta recomendação inicial fundamenta-se nos dados disponíveis. Reconheço a necessidade de informações mais detalhadas para uma análise mais robusta, o que poderia, inclusive, alterar esta indicação. Contudo, em uma análise objetiva e com os dados consistentes atuais, a venda da Loja 04 permanece como a sugestão principal.
+
+Gráfico de Faturamento:
+
+Os gráficos utilizados nesta análise encontram-se anexos.
+
+Outros Fatores Considerados:
+
+Além do faturamento, o custo do frete teve um peso significativo nesta avaliação, assim como a avaliação média por loja.
+
+Observações:
+
+O objetivo desta análise é direcionar a decisão de venda de uma loja específica. É importante ressaltar que outras abordagens e informações estratégicas da empresa poderiam ser consideradas em uma análise mais abrangente
 
