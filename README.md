@@ -14,7 +14,7 @@ Métodologia:
 - formulas ;
 
 Conclusão:
-Analosei conforme os dados acima e em cima do faturamento indico a venda da loja 04;
+Analisei conforme os dados acima e em cima do faturamento indico a venda da loja 04;
 motivo:
 Levei como base exclusiva wm cima dos dados que constam em minhas mãos e claro faltando ter mairoes informações para poder tonar a minha opinião mais robusta e talvez até mudando de indicação de venda da loja 4 mase m uma analise bem fria
 e com pouco dados conssistentes permaneço com a indicação da loja 4.
